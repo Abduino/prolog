@@ -1,0 +1,1 @@
+write('input your first name'),nl,read(X),write('input your last name'),nl,read(Y),write('your first first name is'),nl,write(X),write('your first last name is'),nl,write(X).
