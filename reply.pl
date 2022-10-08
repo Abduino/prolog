@@ -1,0 +1,1 @@
+reply:-read(X),(X=5,write('very good');write('please try again'),reply).
